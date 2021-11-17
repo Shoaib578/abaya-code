@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "929235964923",
+    "project_id": "abaya-332217",
+    "storage_bucket": "abaya-332217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929235964923:android:1df2c167d40481c9ecb15e",
+        "android_client_info": {
+          "package_name": "com.abaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929235964923-q39dlu2tpmogghb84mr1ms4pusn7e5p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abaya",
+            "certificate_hash": "f8bc17704049c262bcbdcc1f27809d5cbf3cf0f0"
+          }
+        },
+        {
+          "client_id": "929235964923-fka5ncgvotmll5rcmqc0lbkgghdhudh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnM2SloTUIijnmC6LtwIpFoENBuYgd5VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929235964923-fka5ncgvotmll5rcmqc0lbkgghdhudh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
